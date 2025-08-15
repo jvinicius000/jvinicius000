@@ -6,7 +6,7 @@ Sou um jovem empreendedor de 22 anos, fundador da empresa **JVinicius Soluções
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
 <a href="https://www.instagram.com/jvinicius000/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  </a>
-<a href="https://jvinici.us/whatsapp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />   </a>
-<a href="https://jvinici.us/discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />     </a>
+<a href="https://jvinici.us/r/whatsapp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />   </a>
+<a href="https://jvinici.us/r/discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />     </a>
 
 </p>
